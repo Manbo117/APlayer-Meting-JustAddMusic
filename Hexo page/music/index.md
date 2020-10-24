@@ -16,7 +16,7 @@ aplayer: true
 <link rel="stylesheet" href="/APlayer-Meting-JustAddMusic/css/justaddmusic.css"/> 
 
 
-{% meting "5249407673" "netease"  "playlist" "order:random"  %}
+<div  data-order="random"    class="aplayer bg-black" data-id="5285269286" data-server="netease" data-type="playlist"  data-volume="1.0"></div>
 
 
 
